@@ -35,9 +35,9 @@ I am a robotics engineer interested in Computer Vision, Deep Learning, Reinforce
 I have worked extensively on successful research and industrial projects involving both Deep Learning and classical Computer Vision.    
 
 
-  <img align="left" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/rl.gif?raw=true" width="300" height="230" />
+  <img align="left" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/rl.gif?raw=true" width="300" height="250" />
 
-  <img align="right" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/hsr.gif?raw=true" width="300" height="230" />
+  <img align="right" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/hsr.gif?raw=true" width="330" height="250" />
 
 **Languages:**  
 
