@@ -6,7 +6,7 @@
 <a href="anijaya9@gmail.com">
   <img align="left" alt="Anirudh's Gmail" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/gmail.png" />
 </a>
-<a href="https://www.researchgate.net/profile/Anirudh-N-Jm">
+<a href="https://www.researchgate.net/profile/Anirudh-N-J">
   <img align="left" alt="Anirudh's ResearchGate" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/researchgate.jpg" />
 </a>
 <a href="https://github.com/njanirudh">
@@ -21,7 +21,7 @@
 <a href="https://www.flickr.com/photos/190002822@N04/">
   <img align="left" alt="Anirudh's Flickr" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flikr.png" />
 </a>
-<a href="https://www.youtube.com/channel/UCOL8TmVduJxAqtQP3NP-SkQg">
+<a href="https://www.youtube.com/channel/UCOL8TmVduJxAqtQP3NP-SkQ/featured">
   <img align="left" alt="Anirudh's Youtube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
 </a>
 
