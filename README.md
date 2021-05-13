@@ -45,14 +45,14 @@ I have worked extensively on successful research and industrial projects involvi
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 **Frameworks:**  
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/opencv.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/dlib.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pytorch.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ptl.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ros.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/sb3.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pcl.png"></code>
-<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/qt_logo.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/opencv.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/dlib.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pytorch.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ptl.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ros.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/sb3.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pcl.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/qt_logo.png"></code>
 
 
 **Hardware:**  
