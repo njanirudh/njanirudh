@@ -3,8 +3,23 @@
 <a href="https://www.linkedin.com/in/njanirudh/">
   <img align="left" alt="Anirudh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="anijaya9@gmail.com">
+  <img align="left" alt="Anirudh's Gmail" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/gmail.png" />
+</a>
+<a href="https://www.researchgate.net/profile/Anirudh-N-Jm">
+  <img align="left" alt="Anirudh's ResearchGate" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/researchgate.jpg" />
+</a>
+<a href="https://github.com/njanirudh">
+  <img align="left" alt="Anirudh's Github" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/github.png" />
+</a>
+
+
+
 <a href="https://open.spotify.com/user/314px6pmz4bi7e2utur3tfu33i5m">
   <img align="left" alt="Anirudh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
+<a href="https://www.flickr.com/photos/190002822@N04/">
+  <img align="left" alt="Anirudh's Flickr" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flikr.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCOL8TmVduJxAqtQP3NP-SkQg">
   <img align="left" alt="Anirudh's Youtube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
@@ -17,39 +32,34 @@
 Hi, I'm Anirudh.    
 I am a robotics engineer interested in Computer Vision, Deep Learning, Reinforcement Learning and Software Development.    
 
-I have worked extensively on research and industrial projects involving both Deep Learning and classical Computer Vision.            
+I have worked extensively on successful research and industrial projects involving both Deep Learning and classical Computer Vision.    
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@abhisheknaiidu](https://twitter.com/abhisheknaiidu);
-- 📝 [Resume](https://drive.google.com/file/d/186ledj5PMY2damRWGpOrxYQZ2xSKjKD_/view)
+  <img align="left" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/rl.gif?raw=true" width="300" height="230" />
 
-**Languages and Tools:**  
+  <img align="right" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/hsr.gif?raw=true" width="300" height="230" />
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+**Languages:**  
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+**Frameworks:**  
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/opencv.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/dlib.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pytorch.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ptl.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ros.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/sb3.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pcl.png"></code>
+<code><img height="30" src="https://github.com/njanirudh/njanirudh/blob/master/assets/qt_logo.png"></code>
 
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,837 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 642 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+**Hardware:**  
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/hsr.jpg"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/kinova.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/realsense.jpg"></code>
 
-
-📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=njanirudh&show_icons=true&theme=gotham" alt="njanirudh" />
 
