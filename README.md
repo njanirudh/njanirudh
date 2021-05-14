@@ -32,7 +32,12 @@
 Hi, I'm Anirudh.    
 I am a robotics engineer interested in Computer Vision, Deep Learning, Reinforcement Learning and Software Development.    
 
-I have worked extensively on successful research and industrial projects involving both Deep Learning and classical Computer Vision.    
+I have worked extensively on successful research and industrial projects involving both Deep Learning and classical Computer Vision. Check few of my projects related to 
+**Object Detection (CNN)** : <a href="https://github.com/njanirudh/Nut-Detector">here</a>, 
+**Autoencoders** : <a href="https://github.com/NJ-2020-thesis/AutoEncoders">here</a>, 
+**Deep Reinforcement Learning** : <a href="https://github.com/NJ-2020-thesis/PyRep/tree/feature/examples/vmp">here</a,
+**Aruco Markers** : (<a href="https://github.com/njanirudh/Aruco_Tracker">here</a>, <a href="https://github.com/njanirudh/Augmented-Reality">here</a>), 
+
 
 
   <img align="left" alt="GIF" src="https://github.com/njanirudh/njanirudh/blob/master/gifs/rl.gif?raw=true" width="300" height="250" />
