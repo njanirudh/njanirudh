@@ -58,7 +58,8 @@ I have worked extensively on successful research and industrial projects involvi
 <code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/sb3.png"></code>
 <code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pcl.png"></code>
 <code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/qt_logo.png"></code>
-
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/docker.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flask.png"></code>
 
 **Hardware:**  
 <code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/hsr.jpg"></code>
