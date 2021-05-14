@@ -46,25 +46,25 @@ I have worked extensively on successful research and industrial projects involvi
 
 **Languages:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" title="C++"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python"></code>
 
 **Frameworks:**  
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/opencv.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/dlib.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pytorch.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ptl.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ros.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/sb3.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pcl.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/qt_logo.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/docker.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flask.png"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/opencv.png" title="OpenCV"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/dlib.png" title="DLib"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pytorch.png" title="PyTorch"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ptl.png" title="Pytorch-Lightning"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/ros.png" title="ROS"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/sb3.png" title="Stable-Baselines3"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/pcl.png" title="PCL"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/qt_logo.png" title="Qt"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/docker.png" title="Docker"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flask.png" title="Flask"></code>
 
 **Hardware:**  
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/hsr.jpg"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/kinova.png"></code>
-<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/realsense.jpg"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/hsr.jpg" title="Toyota HSR"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/kinova.png" title="Kinova 3"></code>
+<code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/realsense.jpg" title="Realsense"></code>
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=njanirudh&show_icons=true&theme=gotham" alt="njanirudh" />
