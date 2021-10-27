@@ -22,14 +22,14 @@
   <img align="left" alt="Anirudh's Flickr" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flikr.png" />
 </a>
 <a href="https://www.youtube.com/channel/UCOL8TmVduJxAqtQP3NP-SkQ/featured">
-  <img align="left" alt="Anirudh's Youtube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/master/assets/youtube.svg" />
+  <img align="left" alt="Anirudh's Youtube" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/768px-YouTube_Logo_2017.svg.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=njanirudh.njanirudh)
 
 <br />
 
-Hi, I'm Anirudh.    
+Hi, I am Anirudh.    
 I am a robotics engineer interested in Computer Vision, Deep Learning, Reinforcement Learning and Software Development.    
 
 I have worked extensively on successful research and industrial projects involving both Deep Learning and classical Computer Vision. Checkout few of my projects related to 
