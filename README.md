@@ -16,7 +16,7 @@
 
 
 <a href="https://open.spotify.com/user/314px6pmz4bi7e2utur3tfu33i5m">
-  <img align="left" alt="Anirudh's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Anirudh's Spotify" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/768px-Spotify_logo_without_text.svg.png" />
 </a>
 <a href="https://www.flickr.com/photos/190002822@N04/">
   <img align="left" alt="Anirudh's Flickr" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/flikr.png" />
