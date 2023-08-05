@@ -69,7 +69,7 @@ I have worked extensively on successful research and industrial projects involvi
 <code><img height="20" src="https://github.com/njanirudh/njanirudh/blob/master/assets/realsense.jpg" title="Realsense"></code>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=njanirudh&show_icons=true&theme=gotham" alt="njanirudh" />
+# <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=njanirudh&show_icons=true&theme=gotham" alt="njanirudh" />
 
 
 
