@@ -1,7 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/njanirudh/">
-  <img align="left" alt="Anirudh's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Anirudh's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />
 </a>
 <a href="anijaya9@gmail.com">
   <img align="left" alt="Anirudh's Gmail" width="22px" src="https://github.com/njanirudh/njanirudh/blob/master/assets/gmail.png" />
