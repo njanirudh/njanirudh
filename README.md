@@ -30,9 +30,9 @@
 <br />
 
 Hi, I am Anirudh.    
-I am a robotics engineer interested in Software Development, Computer Vision, Deep Learning, Reinforcement Learning.    
+I am a robotics engineer interested in Software Development and Design, Computer Vision, Deep Learning, Reinforcement Learning and everything under the sun :D.    
 
-I have worked extensively on successful research and industrial projects involving both Deep Learning and classical Computer Vision. Checkout few of my personal projects related to 
+I have worked extensively on successful research and industrial projects involving Software Design, Deep Learning and classical Computer Vision. Checkout few of my personal projects related to 
 **Object Detection (CNN)** : (<a href="https://github.com/njanirudh/Nut-Detector">here</a>), 
 **Semantic Segmentation (CNN)** : (<a href="https://github.com/njanirudh/Geo-Segmentation-Pytorch">here</a>, 
 <a href="https://github.com/njanirudh/coding_task_make-a-model">here</a>)
