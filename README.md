@@ -30,7 +30,7 @@
 <br />
 
 Hi, I am Anirudh.    
-I am a software engineer interested in Software Development and Design, Computer Vision, Deep Learning, Reinforcement Learning and everything under the sun :D.    
+I am a software engineer interested in Robotics, Software Development and Design, Computer Vision, Deep Learning, Reinforcement Learning and everything under the sun :D.    
 
 I have worked extensively on successful research and industrial projects involving Software Design, Deep Learning and classical Computer Vision. Checkout few of my personal projects related to 
 **Object Detection (CNN)** : (<a href="https://github.com/njanirudh/Nut-Detector">here</a>), 
